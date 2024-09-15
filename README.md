@@ -1,74 +1,62 @@
-# Anant Agarwal
+# 👋 Hi, I'm Anant Agarwal!
 
-**Bachelor of Engineering in Electronics and Computer Engineering (2021-2025)**  
-**Thapar Institute of Engineering and Technology, Patiala**
-
-[LinkedIn](https://www.linkedin.com/in/aagarwal15/) | [GitHub](https://github.com/procoding2022) | [CodeChef](https://www.codechef.com/users/aagarwal15) | [Kaggle](https://www.kaggle.com/aagarwal15)  
+🎓 **Electronics and Computer Engineering**  
+📍 **Thapar University, Patiala (2021-2025)**  
 
 ---
 
-## About Me
+## 🚀 Skills & Tools
 
-I am a fourth-year Electronics and Computer Engineering student at Thapar University, with a passion for web development and database management. With hands-on experience in full-stack development, I have successfully designed and implemented projects that have enhanced user engagement and optimized system efficiency. My technical expertise spans across JavaScript, React.js, Express.js, PostgreSQL, and AWS deployment.
+- **Languages**:  
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) 
+  ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)  
+  ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) 
+  ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)  
+  ![VLSI](https://img.shields.io/badge/-VLSI-blue)
 
----
+- **Frameworks & Libraries**:  
+  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) 
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)  
+  ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)  
+  ![Material UI](https://img.shields.io/badge/-Material%20UI-0081CB?logo=material-ui)  
+  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white)
 
-## Technical Skills
+- **Databases**:  
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)  
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)  
+  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 
-- **Languages**: JavaScript, C++, HTML, CSS, VLSI
-- **Frameworks**: React.js, Express, Node.js, Tailwind CSS, React Native
-- **Libraries**: Material UI
-- **Databases**: MongoDB, PostgreSQL, MySQL
-- **Dev Tools**: AWS, cPanel, Google Firebase
-- **Additional Skills**: Natural Language Processing (NLP)
+- **Dev Tools**:  
+  ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)  
+  ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)  
+  ![cPanel](https://img.shields.io/badge/-cPanel-FF6C2C?logo=cpanel&logoColor=white)
 
----
-
-## Experience
-
-### Web Developer Intern  
-**Unite Energy Corporation LLP** | *May 2024 – July 2024*  
-- Built a responsive, high-performance website using React.js, Material UI, and Tailwind CSS, boosting user engagement by 25%.  
-- Integrated MySQL database with Node.js and Express.js, enhancing data retrieval efficiency by 30%.  
-- Deployed the server on AWS and ensured 99.9% uptime with cPanel hosting.  
-- [Live Project](https://www.uniteenergycorp.com/)
-
-### Frontend Web Developer Intern  
-**Jain Engg & Abrasive** | *May 2023 – July 2023*  
-- Developed a responsive website with HTML, CSS, and JavaScript, improving load times by 20%.  
-- Hosted the website using cPanel.  
-- [Live Project](https://www.whelabrasives.com/)
+- **Other Skills**:  
+  💬 Natural Language Processing (NLP)
 
 ---
 
-## Projects
+## 🏆 Achievements
 
-### College Directory Management System  
-*React.js, Express, Node.js, PostgreSQL, AWS* | *July 2024*  
-- Designed a responsive website using React.js, Material UI, and Tailwind CSS.  
-- Reduced search response time by 40% with optimized database queries.  
-- Deployed using GitHub Actions and hosted on AWS.
+- **🏅 National Representation at NCSC (National Children’s Science Congress)**  
+  🌱 Developed an app-controlled irrigation system to conserve water.  
+  🏆 Represented my school at the national level and won several awards.
 
-### School Event Management System  
-*React.js, Express, Node.js, PostgreSQL, AWS* | *June 2024*  
-- Created an event management platform, improving registration efficiency by 50%.  
-- Leveraged PostgreSQL and Node.js to manage backend data.  
-- Deployed via GitHub Actions and AWS.
+- **🛠️ Project Highlights**  
+  - **College Directory Management System**: Reduced search response time by 40%!  
+  - **School Event Management Platform**: Increased registration efficiency by 50%.
 
 ---
 
-## Achievements
+## 🌐 Let's Connect
 
-- **National Level Representation**, NCSC, Govt. of India (Oct 2018 – Nov 2019)  
-  - Developed an app-controlled irrigation system for water conservation, tested in real-world conditions.  
-  - Represented school at the National Children’s Science Congress, receiving multiple awards.
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aagarwal15/)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/procoding2022)  
+[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?logo=codechef&logoColor=white)](https://www.codechef.com/users/aagarwal15)  
+[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/aagarwal15)  
 
----
-
-## Certifications
-
-- **Citation Certificate** by Govt. of India
+📧 **Email**: [anantagarwal1512@gmail.com](mailto:anantagarwal1512@gmail.com)
 
 ---
 
-For more information, feel free to explore my [GitHub](https://github.com/procoding2022) and reach out via [Email](mailto:anantagarwal1512@gmail.com).
+**Fun Fact**: When I'm not coding, I'm either exploring new tech trends or analyzing cool data sets on Kaggle! 😄
