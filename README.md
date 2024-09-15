@@ -1,62 +1,74 @@
-# 👋 Hi, I'm Anant Agarwal!
+# 👋 Hey there, I’m Anant Agarwal! 
 
-🎓 **Electronics and Computer Engineering**  
-📍 **Thapar University, Patiala (2021-2025)**  
+![Profile Banner](https://user-images.githubusercontent.com/gh-banner.jpg) <!-- You can add a custom banner image link here -->
 
----
-
-## 🚀 Skills & Tools
-
-- **Languages**:  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) 
-  ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)  
-  ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) 
-  ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)  
-  ![VLSI](https://img.shields.io/badge/-VLSI-blue)
-
-- **Frameworks & Libraries**:  
-  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) 
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)  
-  ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)  
-  ![Material UI](https://img.shields.io/badge/-Material%20UI-0081CB?logo=material-ui)  
-  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white)
-
-- **Databases**:  
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)  
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)  
-  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-
-- **Dev Tools**:  
-  ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)  
-  ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)  
-  ![cPanel](https://img.shields.io/badge/-cPanel-FF6C2C?logo=cpanel&logoColor=white)
-
-- **Other Skills**:  
-  💬 Natural Language Processing (NLP)
+I’m a passionate **Electronics and Computer Engineering** student from **Thapar University** 🏫, a curious coder 💻, and a problem-solver who loves to bring ideas to life with **JavaScript** and **React**. I’ve built cool projects, worked with awesome technologies, and I’m always looking for the next challenge! 🚀
 
 ---
 
-## 🏆 Achievements
-
-- **🏅 National Representation at NCSC (National Children’s Science Congress)**  
-  🌱 Developed an app-controlled irrigation system to conserve water.  
-  🏆 Represented my school at the national level and won several awards.
-
-- **🛠️ Project Highlights**  
-  - **College Directory Management System**: Reduced search response time by 40%!  
-  - **School Event Management Platform**: Increased registration efficiency by 50%.
+## 🎯 My Mission
+To craft elegant code that solves real-world problems and improves everyday life! 💡
 
 ---
 
-## 🌐 Let's Connect
+## 🛠️ Tech Arsenal
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aagarwal15/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/procoding2022)  
-[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?logo=codechef&logoColor=white)](https://www.codechef.com/users/aagarwal15)  
-[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/aagarwal15)  
+### Languages & Tools I Love 🔥
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-FFD700?logo=javascript&logoColor=black)  
+- ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)  
+- ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  
+- ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)  
+- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)  
+- ![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazon-aws&logoColor=white)  
+- ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
 
-📧 **Email**: [anantagarwal1512@gmail.com](mailto:anantagarwal1512@gmail.com)
+### Currently Exploring 🔍
+- **AI & Machine Learning**: Diving into NLP to make machines understand human language better! 🤖💬  
+- **Cloud Computing**: Learning to scale the future with AWS ☁️
 
 ---
 
-**Fun Fact**: When I'm not coding, I'm either exploring new tech trends or analyzing cool data sets on Kaggle! 😄
+## 🌟 Projects That Define Me
+
+### 🚀 [College Directory Management System](https://github.com/procoding2022/college-directory)
+A super-efficient directory system that **boosts search response time by 40%!** 📂  
+Stack: React.js, Node.js, PostgreSQL, AWS  
+
+### 🎉 [School Event Management Platform](https://github.com/procoding2022/school-event-mgmt)
+Streamlined event management with an **improved registration process by 50%!** 🎓  
+Stack: React.js, Express.js, PostgreSQL, AWS  
+
+---
+
+## 🌟 Fun Achievements
+
+- **🌱 Auto Irrigation System**  
+  Won national recognition at **NCSC (National Children’s Science Congress)** with a smart, app-controlled irrigation system! 🌍💧
+
+- **🎓 National Science Award**  
+  🏆 Represented my school on a national stage and bagged some shiny awards!
+
+---
+
+## 🧠 What I’m Learning Right Now
+- **NLP (Natural Language Processing)** – Making machines smarter with words! 🧠📖  
+- **Advanced Web Development** – Creating even sleeker, faster, and more user-friendly web apps! 💻⚡
+
+---
+
+## 🔥 Let’s Collaborate! 
+Have an exciting project or a crazy idea? I’d love to work with you!
+
+- 💬 **[Message me on LinkedIn](https://www.linkedin.com/in/aagarwal15/)**  
+- 🐙 **[Explore my GitHub](https://github.com/procoding2022)**  
+- 🍴 **[Solve Problems with me on CodeChef](https://www.codechef.com/users/aagarwal15)**  
+- 📧 **[Shoot me an Email](mailto:anantagarwal1512@gmail.com)**  
+
+---
+
+## 💡 Fun Fact
+When I’m not coding, I’m either **exploring new AI trends** or **beating my high score on Kaggle**! 🎮📊
+
+---
+
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=procoding2022.visitor-badge)  
